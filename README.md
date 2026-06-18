@@ -21,7 +21,6 @@
   - [WhatsApp & Messaging Automation](#8-whatsapp--messaging-automation)
   - [Data Analytics & Reporting for Sales](#9-data-analytics--reporting-for-sales)
   - [Calendar & Meeting Scheduling](#10-calendar--meeting-scheduling)
-- [🚀 Original MCP Servers (Built by InnovatorsAIHub)](#-original-mcp-servers-built-by-innovatorsaihub)
 - [🤝 Contribution Welcome](#-contribution-welcome)
 - [📄 License](#-license)
 
@@ -77,14 +76,12 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mcp (datalayer-sh)](https://github.com/datalayer-sh/mcp) - B2B data enrichment MCP server for finding work emails, phone numbers, and buying intent signals. ⭐
 - [linkedin_mcp_python (narayanmishra1873)](https://github.com/narayanmishra1873/linkedin_mcp_python) - LinkedIn automation suite designed for profile data extraction and lead generation.
 - [leadmagic-openapi (LeadMagic)](https://github.com/LeadMagic/leadmagic-openapi) - OpenAPI/MCP compatible interface for B2B enrichment, email validation, and company intelligence.
-- [enrichmcp (datalayer-sh)](https://github.com/datalayer-sh/enrichmcp) - Python framework designed to act as an ORM for AI agents for data enrichment.
 - [hunter-mcp (hunter-io)](https://github.com/hunter-io/hunter-mcp) - Deprecated repository for Hunter.io, now migrated to their remote MCP server for email verification and lead intelligence.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
 - [mcp (salesforcecli)](https://github.com/salesforcecli/mcp) - Official Salesforce DX MCP server for Salesforce development and DevOps workflows. ⭐
 - [pipedrive-mcp-server (ckalima)](https://github.com/ckalima/pipedrive-mcp-server) - Exposes 150+ tools covering deals, persons, and activities in Pipedrive. ⭐
-- [hubspot-mcp (pratikm19)](https://github.com/pratikm19/hubspot-mcp) - A HubSpot MCP server extending the official integration with RevOps utilities.
 - [mcp-server-salesforce (tsmztech)](https://github.com/tsmztech/mcp-server-salesforce) - Focuses on integrating Claude with Salesforce for querying and managing records.
 - [notion-mcp-server (makenotion)](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP server to read, search, and update databases and workspaces. ⭐
 - [airtable-mcp (rashidazarang)](https://github.com/rashidazarang/airtable-mcp) - Community-built Airtable MCP server supporting full CRUD, schema management, and analytics. ⭐
@@ -105,7 +102,6 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [tavily-mcp (tavily-ai)](https://github.com/tavily-ai/tavily-mcp) - Official Tavily MCP server for real-time web search and LLM-optimized scraping. ⭐
 - [MCP (jina-ai)](https://github.com/jina-ai/MCP) - Official Jina AI MCP server converting web pages to markdown and offering grounding tools. ⭐
 - [scrapegraph-mcp (ScrapeGraphAI)](https://github.com/ScrapeGraphAI/scrapegraph-mcp) - Integrates ScrapeGraphAI's API, offering enterprise-grade AI-powered scraping capabilities. ⭐
-- [scrapling-mcp (scrapling)](https://github.com/scrapling/scrapling-mcp) - Stealth web scraping bypassing anti-bot systems (like Cloudflare), with sessions and screenshotting capabilities. ⭐
 - [scrap-mcp (sigmaSd)](https://github.com/sigmaSd/scrap-mcp) - Lightweight server built with deno-dom for fast HTML parsing and CSS-based extraction.
 - [crawl4ai (unclecode)](https://github.com/unclecode/crawl4ai) - Open-source intelligent content extraction optimized for AI-driven scraping tasks.
 
@@ -165,13 +161,6 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [calcom-mcp (Danielpeter-99)](https://github.com/Danielpeter-99/calcom-mcp) - FastMCP-based community integration for Cal.com.
 
 ---
-
-## 🚀 Original MCP Servers (Built by InnovatorsAIHub)
-
-- unipile-mcp (coming soon) - LinkedIn automation via Unipile API
-
----
-
 ## 🤝 Contribution Welcome
 
 Contributions are welcome! Please read the [Contribution Guidelines](CONTRIBUTING.md) first.
