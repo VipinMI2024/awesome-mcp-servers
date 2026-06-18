@@ -174,7 +174,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 
 ## 🤝 Contribution Welcome
 
-Contributions are welcome! Please read the [Contribution Guidelines](CONTRIBUTING.md) (coming soon) first.
+Contributions are welcome! Please read the [Contribution Guidelines](CONTRIBUTING.md) first.
 
 If you know of any other MCP servers that fit well into any of these categories, please submit a Pull Request.
 
