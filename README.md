@@ -46,6 +46,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [linkedin-mcp-server (eliasbiondo)](https://github.com/eliasbiondo/linkedin-mcp-server) - FastMCP-based server designed for searching people, companies, and jobs.
 - [twitter-mcp (EnesCinr)](https://github.com/EnesCinr/twitter-mcp) - MCP server for posting tweets and searching Twitter (X).
 - [x-mcp-server (DataWhisker)](https://github.com/DataWhisker/x-mcp-server) - Exposes 16+ tools including media uploads, engagement actions, and profile lookups on X.
+- [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - Authenticated remote MCP server for X search, profile lookup, media downloads, webhooks, and write actions.
 - [twitter-mcp-server (taazkareem)](https://github.com/taazkareem/twitter-mcp-server) - Built on the agent-twitter-client library, focusing on robust error handling and rate-limiting.
 - [bsky-mcp-server (brianellin)](https://github.com/brianellin/bsky-mcp-server) - Connects to Bluesky and interacts with the AT Protocol for posting and fetching content.
 - [bluesky-social-mcp (gwbischof)](https://github.com/gwbischof/bluesky-social-mcp) - Social interactions on Bluesky including following, muting, and timeline retrieval.
