@@ -252,4 +252,4 @@ If you know of any other MCP servers that fit well into any of these categories,
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details
