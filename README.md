@@ -61,6 +61,9 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mastodon-mcp (The-Focus-AI)](https://github.com/The-Focus-AI/mastodon-mcp) - Dedicated Mastodon MCP server that supports scheduled posts, custom visibility, and media uploads.
 - [social-media-mcp (tayler-id)](https://github.com/tayler-id/social-media-mcp) - Cross-platform social media server supporting Mastodon, Twitter/X, and LinkedIn.
 - [linkedin-mcp-server (Dishant27)](https://github.com/Dishant27/linkedin-mcp-server) - Integrates LinkedIn's API for profile data fetching and sharing updates.
+- [linkedin-mcpserver (felipfr)](https://github.com/felipfr/linkedin-mcpserver) - TypeScript-based MCP server providing tools for profile search, job discovery, and messaging.
+- [mcp-linkedin (timkulbaev)](https://github.com/timkulbaev/mcp-linkedin) - Connects to the Unipile API for publishing LinkedIn posts, comments, and reactions with a dry-run safety mode.
+- [linkedin_mcp (Rayyan9477)](https://github.com/Rayyan9477/linkedin_mcp) - Focused on job searching, resume/cover letter generation, and job application management.
 
 ### 2. Email Automation
 
@@ -82,6 +85,10 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [doubletick-cli (cseguinlz)](https://github.com/cseguinlz/doubletick-cli) - Email read tracking via Gmail to check open counts, devices, and timing.
 - [better-email-mcp (n24q02m)](https://github.com/n24q02m/better-email-mcp) - Node.js-based IMAP/SMTP server supporting App Passwords and auto-discovery for major email providers.
 - [mcp-server (multimail-dev)](https://github.com/multimail-dev/mcp-server) - Native email server allowing agents to send and receive Markdown emails with optional human gating.
+- [email-mcp-server (ptbsare)](https://github.com/ptbsare/email-mcp-server) - Uses POP3/SMTP protocols for reading, sending, and managing emails.
+- [mcp-server-smtp (samihalawa)](https://github.com/samihalawa/mcp-server-smtp) - Specialized server for sending template-based and bulk emails via SMTP.
+- [mailchimp-mcp-server (damientilman)](https://github.com/damientilman/mailchimp-mcp-server) - Comprehensive MCP server for Mailchimp API v3 to manage campaigns, audiences, and reports.
+- [mailchimp-mcp (AgentX-ai)](https://github.com/AgentX-ai/mailchimp-mcp) - Read-only TypeScript MCP server for accessing Mailchimp Marketing campaigns and subscriber lists.
 
 ### 3. Lead Generation & Enrichment
 
@@ -102,6 +109,9 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [inbound-mcp (bashirk)](https://github.com/bashirk/inbound-mcp) - Orchestrates Crawl4AI and the MCP SDK to automate inbound lead discovery and qualification.
 - [mcp-icp-fit-scorer (mambalabsdev)](https://github.com/mambalabsdev/mcp-icp-fit-scorer) - Ideal Customer Profile (ICP) alignment scorer evaluating companies on a 0-100 scale.
 - [mcp-gtm-suite (mambalabsdev)](https://github.com/mambalabsdev/mcp-gtm-suite) - GTM signal scanner covering hiring, tech stacks, job boards, and LinkedIn URL resolution. ⭐
+- [god-mode-intel-mcp-server (johnrippy1980)](https://github.com/johnrippy1980/god-mode-intel-mcp-server) - A B2B intelligence server with 48+ tools for prospect discovery, company research, and lead enrichment. ⭐
+- [smartlead-mcp-server (jonathan-politzki)](https://github.com/jonathan-politzki/smartlead-mcp-server) - Automate and monitor cold email outreach campaigns, track leads, and check analytics on SmartLead.
+- [signalhire-mcp (vanman2024)](https://github.com/vanman2024/signalhire-mcp) - B2B contact enrichment and lead generation using the SignalHire API.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
@@ -124,6 +134,12 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [twenty-crm-mcp-server (mhenry3164)](https://github.com/mhenry3164/twenty-crm-mcp-server) - Open-source Twenty CRM client featuring CRUD operations, search, and schema discovery.
 - [twenty-crm-mcp (hbergum)](https://github.com/hbergum/twenty-crm-mcp) - Twenty CRM integration resolving search pagination and note/task link mappings.
 - [zoho-crm-mcp-server-by-cdata (CDataSoftware)](https://github.com/CDataSoftware/zoho-crm-mcp-server-by-cdata) - Read-only Zoho CRM server exposing data tables as relational models via JDBC.
+- [salesforce-mcp-server (LokiMCPUniverse)](https://github.com/LokiMCPUniverse/salesforce-mcp-server) - Open-source Salesforce server supporting SOQL/SOSL queries, CRUD, Bulk API, and Apex execution.
+- [salesforce-mcp-server (kablewy)](https://github.com/kablewy/salesforce-mcp-server) - TypeScript implementation using jsforce for CRM record search, queries, and metadata retrieval.
+- [hubspot-mcp (shinzo-labs)](https://github.com/shinzo-labs/hubspot-mcp) - Access and manage HubSpot CRM contacts, companies, deals, and associations.
+- [HubSpot-MCP-Server (SanketSKasar)](https://github.com/SanketSKasar/HubSpot-MCP-Server) - Standard HubSpot client supporting all 21 MCP protocol endpoints with multi-transport capabilities.
+- [pipedrive-mcp-server (WillDent)](https://github.com/WillDent/pipedrive-mcp-server) - Connects to Pipedrive API v2 to expose CRM pipelines, deals, and filters.
+- [MCP-Server (Officehub-Tech-LLC)](https://github.com/Officehub-Tech-LLC/MCP-Server) - Integrates Zoho CRM with AI clients using Python and Node.js for conversational CRM actions.
 
 ### 5. Web Scraping & Prospecting
 
@@ -145,6 +161,10 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [tap (LeonTing1010)](https://github.com/LeonTing1010/tap) - Headless browser automation running deterministic tap plans with drift detection. ⭐
 - [safari-mcp (achiya-automation)](https://github.com/achiya-automation/safari-mcp) - Native Apple macOS Safari browser automation with 80+ tools and low CPU overhead.
 - [auth-fetch-mcp (ymw0407)](https://github.com/ymw0407/auth-fetch-mcp) - Opens local browser instances to capture and cache sessions for login-protected pages.
+- [mcp-server (ScrapingBee)](https://github.com/ScrapingBee/mcp-server) - Official ScrapingBee MCP server for scalable web scraping and search. ⭐
+- [crawl-mcp (walksoda)](https://github.com/walksoda/crawl-mcp) - Web content extractor supporting web pages, PDFs, Office documents, and YouTube videos.
+- [scrapfly-mcp (scrapfly)](https://github.com/scrapfly/scrapfly-mcp) - Official Scrapfly MCP server for web scraping, anti-bot bypassing, and screenshot capture. ⭐
+- [scrapeless-mcp-server (scrapeless-ai)](https://github.com/scrapeless-ai/scrapeless-mcp-server) - Official Scrapeless MCP server for browser automation, dynamic site scraping, and Google Trend/SERP searches.
 
 ### 6. Workflow Automation (n8n, Make, Zapier MCPs)
 
@@ -203,6 +223,12 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mac_messages_mcp (carterlasalle)](https://github.com/carterlasalle/mac_messages_mcp) - Accesses local macOS iMessage databases for analyzing history, managing contacts, and sending messages. ⭐
 - [telegram-mcp (chaindead)](https://github.com/chaindead/telegram-mcp) - Telegram MTProto API client for reading chats, managing groups, and retrieving histories.
 - [wecom-docs-mcp-server (Beltran12138)](https://github.com/Beltran12138/wecom-docs-mcp-server) - Integrates WeCom (Enterprise WeChat) document CRUD and Smartsheets management.
+- [whatsapp-mcp-server (caglayan)](https://github.com/caglayan/whatsapp-mcp-server) - Local-first, Go-based WhatsApp client for reading history, downloading media, and sending messages.
+- [discord-mcp (SaseQ)](https://github.com/SaseQ/discord-mcp) - Connects AI agents to Discord channels, servers, and messaging using the Java Discord API.
+- [slack-mcp-server (korotovsky)](https://github.com/korotovsky/slack-mcp-server) - Integrates Slack direct messages, channels, and apps with smart history retrieval.
+- [whatsapp-mcp (ihiteshgupta)](https://github.com/ihiteshgupta/whatsapp-mcp) - Go-based standalone WhatsApp client using the whatsmeow library and SQLite local database.
+- [whatsapp-mcp (felipeadeildo)](https://github.com/felipeadeildo/whatsapp-mcp) - SQLite-backed WhatsApp bridge allowing AI assistants to read, search, and send messages.
+- [telegram-mcp-server (abhinavkale-dev)](https://github.com/abhinavkale-dev/telegram-mcp-server) - TypeScript-based MCP server for the Telegram Bot API supporting message sending, deletion, and media.
 
 ### 9. Data Analytics & Reporting for Sales
 
@@ -222,6 +248,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mcp-gsheets (freema)](https://github.com/freema/mcp-gsheets) - Comprehensive Google Sheets API server for cell formatting, editing, and workbook management.
 - [google-searchconsole-mcp (lionkiii)](https://github.com/lionkiii/google-searchconsole-mcp) - Google Search Console integration with 13 SEO metrics, sitemap, and performance tracking tools. ⭐
 - [sql-query-mcp (andyWang1688)](https://github.com/andyWang1688/sql-query-mcp) - Multi-database query manager supporting schema exploration and read-only query boundaries.
+- [analytics-mcp-server (zoho)](https://github.com/zoho/analytics-mcp-server) - Official Zoho Analytics server enabling AI models to run queries, manage workspaces, and import data. ⭐
 
 ### 10. Calendar & Meeting Scheduling
 
@@ -240,6 +267,9 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [leximo-ai-call-assistant-mcp-server (Leximo-AI)](https://github.com/Leximo-AI/leximo-ai-call-assistant-mcp-server) - Phone-based virtual assistant that books reservations and schedules meetings.
 - [nworks (yjcho9317)](https://github.com/yjcho9317/nworks) - NAVER WORKS suite integrating corporate calendar schedules, boards, and mail boxes.
 - [ms-365-mcp-server (softeria)](https://github.com/softeria/ms-365-mcp-server) - Microsoft 365 Graph client managing Outlook Calendar bookings and Exchange mails.
+- [outlook-meetings-scheduler-mcp-server (anoopt)](https://github.com/anoopt/outlook-meetings-scheduler-mcp-server) - Schedules Outlook meetings and manages invitees using the Microsoft Graph API.
+- [Microsoft-Teams-Meetings-MCP-Server (alivnavc)](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server) - Controls Microsoft Teams meeting scheduling, rescheduling, and cancellations.
+- [meeting-mcp (Meeting-BaaS)](https://github.com/Meeting-BaaS/meeting-mcp) - Manage recording, transcription, and bots for virtual meetings.
 
 ---
 ## 🤝 Contribution Welcome
