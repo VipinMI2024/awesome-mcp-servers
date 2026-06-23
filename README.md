@@ -269,7 +269,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [ms-365-mcp-server (softeria)](https://github.com/softeria/ms-365-mcp-server) - Microsoft 365 Graph client managing Outlook Calendar bookings and Exchange mails.
 - [outlook-meetings-scheduler-mcp-server (anoopt)](https://github.com/anoopt/outlook-meetings-scheduler-mcp-server) - Schedules Outlook meetings and manages invitees using the Microsoft Graph API.
 - [Microsoft-Teams-Meetings-MCP-Server (alivnavc)](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server) - Controls Microsoft Teams meeting scheduling, rescheduling, and cancellations.
-- [meeting-mcp (Meeting-BaaS)](https://github.com/Meeting-BaaS/meeting-mcp) - Manage recording, transcription, and bots for virtual meetings.
+
 
 ---
 ## 🤝 Contribution Welcome
