@@ -21,6 +21,7 @@
   - [WhatsApp & Messaging Automation](#8-whatsapp--messaging-automation)
   - [Data Analytics & Reporting for Sales](#9-data-analytics--reporting-for-sales)
   - [Calendar & Meeting Scheduling](#10-calendar--meeting-scheduling)
+- [🔁 Loop Engineering for Sales Automation](#-loop-engineering-for-sales-automation)
 - [🤝 Contribution Welcome](#-contribution-welcome)
 - [📄 License](#-license)
 
@@ -270,6 +271,21 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [outlook-meetings-scheduler-mcp-server (anoopt)](https://github.com/anoopt/outlook-meetings-scheduler-mcp-server) - Schedules Outlook meetings and manages invitees using the Microsoft Graph API.
 - [Microsoft-Teams-Meetings-MCP-Server (alivnavc)](https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server) - Controls Microsoft Teams meeting scheduling, rescheduling, and cancellations.
 - [meeting-mcp (Meeting-BaaS)](https://github.com/Meeting-BaaS/meeting-mcp) - Manage recording, transcription, and bots for virtual meetings.
+
+---
+
+## 🔁 Loop Engineering for Sales Automation
+
+Instead of manually running MCP tools one by one, you can design a "loop" — an automated, scheduled system where an AI agent repeatedly triages leads, sends outreach, and escalates only when human judgment is needed. This approach shifts AI from a reactive helper to an active, continuous assistant. It ensures your pipeline stays full and active without requiring constant manual triggers.
+
+| Loop Pattern | What It Automates | Suggested Cadence |
+| :--- | :--- | :--- |
+| Daily Lead Triage | Scrapes and scores new leads using MCP scraping + CRM servers | Daily |
+| Outreach Sweeper | Sends connection requests and follow-ups via LinkedIn/Email MCP servers | Every 6-8 hours |
+| Reply Watcher | Monitors chat threads, flags hot leads for human review | Continuous |
+| Weekly Reporting | Pulls analytics from CRM/Sheets MCP servers into a summary | Weekly |
+
+Inspired by loop engineering principles — see [Loop Engineering by Cobus Greyling](https://github.com/cobusgreyling/loop-engineering) for the general pattern.
 
 ---
 ## 🤝 Contribution Welcome
