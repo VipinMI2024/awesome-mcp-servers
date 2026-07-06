@@ -123,6 +123,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 
 ### 9. Data Analytics & Reporting for Sales
 
+- [llmpulse-mcp (LLM Pulse)](https://github.com/LLM-Pulse/llmpulse-mcp) - Tracks AI search visibility, citations, sentiment, and share of voice for B2B reporting.
 - [server-postgres (modelcontextprotocol)](https://github.com/modelcontextprotocol/servers) - Standard PostgreSQL MCP server for executing queries and schema discovery. ⭐
 - [mcp-sqlite (jparkerweb)](https://github.com/jparkerweb/mcp-sqlite) - Comprehensive MCP server designed for SQLite database interaction.
 - [mcp-clickhouse (ClickHouse)](https://github.com/ClickHouse/mcp-clickhouse) - Official ClickHouse database connector for querying enterprise analytics warehouses.
