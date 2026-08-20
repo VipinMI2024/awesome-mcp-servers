@@ -51,6 +51,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [reddit-mcp (Arindam200)](https://github.com/Arindam200/reddit-mcp) - Focuses on Reddit engagement metrics, subreddit statistics, and growth pattern analysis.
 - [linkedin-mcp-server (Dishant27)](https://github.com/Dishant27/linkedin-mcp-server) - Integrates LinkedIn's API for profile data fetching and sharing updates.
 - [linkedin_mcp (Rayyan9477)](https://github.com/Rayyan9477/linkedin_mcp) - Focused on job searching, resume/cover letter generation, and job application management.
+- [autoposting-mcp (Autoposting-ai)](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server for social publishing: generates posts, clips video and schedules to X, LinkedIn, Instagram, Threads and YouTube.
 
 ### 2. Email Automation
 
