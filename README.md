@@ -52,6 +52,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [linkedin-mcp-server (Dishant27)](https://github.com/Dishant27/linkedin-mcp-server) - Integrates LinkedIn's API for profile data fetching and sharing updates.
 - [linkedin_mcp (Rayyan9477)](https://github.com/Rayyan9477/linkedin_mcp) - Focused on job searching, resume/cover letter generation, and job application management.
 - [autoposting-mcp (Autoposting-ai)](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server for social publishing: generates posts, clips video and schedules to X, LinkedIn, Instagram, Threads and YouTube.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, review, scheduling, publishing, media, and analytics. [Docs](https://app.bulkpublish.com/docs)
 
 ### 2. Email Automation
 
