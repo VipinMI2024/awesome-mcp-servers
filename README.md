@@ -97,6 +97,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 6. Workflow Automation (n8n, Make, Zapier MCPs)
 
 - [zapier-mcp (zapier)](https://github.com/zapier/zapier-mcp) - Official Zapier MCP server to connect AI agents to 9,000+ apps. ⭐
+- [pipe0](https://pipe0.com) - Workflow orchestration for sales. Automate CRM enrichment, social listening, outreach, and data enrichment.
 - [n8n-mcp (czlonkowski)](https://github.com/czlonkowski/n8n-mcp) - n8n integration for accessing node docs, properties, and workflow building.
 - [n8n-mcp-server (leonardsellem)](https://github.com/leonardsellem/n8n-mcp-server) - Community-maintained MCP server designed to manage and control n8n workflows and executions.
 - [activepieces (activepieces)](https://github.com/activepieces/activepieces) - Turn Activepieces automated workflows into MCP-compatible tools for AI agents.
