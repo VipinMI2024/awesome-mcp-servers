@@ -103,6 +103,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [n8n-nodes-mcp (nerding-io)](https://github.com/nerding-io/n8n-nodes-mcp) - Community node enabling n8n workflows to act as an MCP client connecting to external tools.
 - [mcp-n8n-builder (spences10)](https://github.com/spences10/mcp-n8n-builder) - Specialized builder for programmatic n8n workflow construction and deployment.
 - [pipedream (PipedreamHQ)](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Seamless bridge to Pipedream's 2,500+ prebuilt APIs and 8,000+ developer actions. ⭐
+- [Process Street MCP Server](https://github.com/process-street/process-street-mcp) - Connects AI agents to Process Street workflows, runs, tasks, users, data sets, and operational records. ⭐
 - [workflows-mcp-server (cyanheads)](https://github.com/cyanheads/workflows-mcp-server) - YAML-based workflow playbook storage and query server.
 - [agent-device (callstackincubator)](https://github.com/callstackincubator/agent-device) - Discovery router and installer CLI for running mobile and desktop automation workflows.
 ### 7. AI Sales Agents & Copilots
