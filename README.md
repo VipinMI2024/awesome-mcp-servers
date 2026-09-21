@@ -67,6 +67,8 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [google_workspace_mcp (taylorwilsdon)](https://github.com/taylorwilsdon/google_workspace_mcp) - Comprehensive Google Workspace integration with support for Calendar, Drive, Gmail, Docs, Sheets, and Chats.
 ### 3. Lead Generation & Enrichment
 
+- [statsnet-mcp (usenetstate)](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote endpoint: `https://statsnet.co/mcp`. Registry: `io.github.usenetstate/statsnet`.
+
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
