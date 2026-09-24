@@ -132,6 +132,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mcp-bigquery-server (ergut)](https://github.com/ergut/mcp-bigquery-server) - Google BigQuery server providing database schemas and querying capabilities.
 - [mcp-gsheets (freema)](https://github.com/freema/mcp-gsheets) - Comprehensive Google Sheets API server for cell formatting, editing, and workbook management.
 - [netdata (netdata)](https://github.com/netdata/netdata) - Performance tracking and system metrics analytics for observability, logs, and processes.
+- [searchlink-lite (GlobalMatchHub)](https://github.com/GlobalMatchHub/searchlink-lite) - Google Search Console MCP server exposing search queries, pages, sitemaps, and indexing status.
 ### 10. Calendar & Meeting Scheduling
 
 - [mcp-google-workspace (j3k0)](https://github.com/j3k0/mcp-google-workspace) - Exposes Google Workspace APIs including Google Calendar and Gmail to AI agents.
