@@ -81,6 +81,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [Skill_Seekers (yusufkaraaslan)](https://github.com/yusufkaraaslan/Skill_Seekers) - Transforms 17 source types (docs, repos, PDFs, Slack/Discord) into AI skills and RAG knowledge with 35 MCP tools.
 ### 5. Web Scraping & Prospecting
 
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Proprietary hosted gateway for discovering and calling web search, scraping and data APIs in prospecting workflows; OAuth or API key required, with API-specific free tiers and paid plans.
 - [firecrawl-mcp-server (firecrawl)](https://github.com/firecrawl/firecrawl-mcp-server) - Official Firecrawl MCP server for web scraping, crawling, and search. ⭐
 - [playwright-mcp (microsoft)](https://github.com/microsoft/playwright-mcp) - Official Playwright MCP server for browser automation and scraping. ⭐
 - [exa-mcp-server (exa-labs)](https://github.com/exa-labs/exa-mcp-server) - Official Exa MCP server for advanced AI-native web search, crawls, and LinkedIn/company search. ⭐
