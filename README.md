@@ -52,6 +52,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [linkedin-mcp-server (Dishant27)](https://github.com/Dishant27/linkedin-mcp-server) - Integrates LinkedIn's API for profile data fetching and sharing updates.
 - [linkedin_mcp (Rayyan9477)](https://github.com/Rayyan9477/linkedin_mcp) - Focused on job searching, resume/cover letter generation, and job application management.
 - [autoposting-mcp (Autoposting-ai)](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server for social publishing: generates posts, clips video and schedules to X, LinkedIn, Instagram, Threads and YouTube.
+- [threadfox-lite (amflimited)](https://github.com/amflimited/threadfox-lite) - Read-only Reddit research for outreach: subreddit rules with self-promotion rules flagged, communities for a topic, account standing and whether a post stayed up, through your own signed-in Chrome.
 
 ### 2. Email Automation
 
