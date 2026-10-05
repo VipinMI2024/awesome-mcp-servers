@@ -44,6 +44,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [linkedin-mcp (southleft)](https://github.com/southleft/linkedin-mcp) - Focuses on AI-powered analytics, content creation, and engagement automation. ⭐
 - [linkedin-mcp-server (stickerdaniel)](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source server that allows AI assistants to read LinkedIn data through a logged-in browser session.
 - [linkedin-mcp-server (eliasbiondo)](https://github.com/eliasbiondo/linkedin-mcp-server) - FastMCP-based server designed for searching people, companies, and jobs.
+- [LinkMCP (linkmcp-io)](https://github.com/linkmcp-io/linkmcp) - Hosted LinkedIn MCP server for your own LinkedIn account with profile, company, people and Sales Navigator search, inbox, posts, connection requests and work email finding (paid plans, 7-day free trial).
 - [twitter-mcp (EnesCinr)](https://github.com/EnesCinr/twitter-mcp) - MCP server for posting tweets and searching Twitter (X).
 - [x-mcp-server (DataWhisker)](https://github.com/DataWhisker/x-mcp-server) - Exposes 16+ tools including media uploads, engagement actions, and profile lookups on X.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - Authenticated remote MCP server for X search, profile lookup, media downloads, webhooks, and write actions.
