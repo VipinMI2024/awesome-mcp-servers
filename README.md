@@ -112,6 +112,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 
 - [mcp-agent (lastmile-ai)](https://github.com/lastmile-ai/mcp-agent) - Python framework for building AI agents with Model Context Protocol using composable workflows. ⭐
 - [b2b-sdr-agent-template (iPythoning)](https://github.com/iPythoning/b2b-sdr-agent-template) - Open-source AI SDR template for multi-channel lead generation workflows.
+- [CalcuCloser](https://calcucloser.velisi.io/mcp) - Remote server for logging sales activity conversationally and retrieving performance analysis from a rep's own deal history.
 - [gtm-engineer-playbook (Othmane-Khadri)](https://github.com/Othmane-Khadri/gtm-engineer-playbook) - Various Claude Code skills for ICP building, signal scanning, and lead scoring.
 - [langsmith-mcp-server (langchain-ai)](https://github.com/langchain-ai/langsmith-mcp-server) - Integrates LangSmith tracing and observability tools into MCP-compliant workflows.
 - [amazon_sp_mcp (jay-trivedi)](https://github.com/jay-trivedi/amazon_sp_mcp) - Exposes Amazon Selling Partner API to query product listings, sales, orders, and inventory data.
