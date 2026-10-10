@@ -91,6 +91,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [scrapeless-mcp-server (scrapeless-ai)](https://github.com/scrapeless-ai/scrapeless-mcp-server) - Official Scrapeless MCP server for browser automation, dynamic site scraping, and Google Trend/SERP searches.
 - [mcp-playwright (executeautomation)](https://github.com/executeautomation/mcp-playwright) - Playwright-based browser automation server for web navigation and data extraction.
 - [mobile-mcp (mobile-next)](https://github.com/mobile-next/mobile-mcp) - MCP server for iOS and Android application/device automation, emulator control, and mobile app scraping.
+- [erius-phone-mcp (Protremix)](https://github.com/Protremix/erius-phone-mcp) - Gives AI agents a real Android device (ERIUS PHONE) to control over MCP: read the screen, tap/type/swipe, install/launch apps, pull crash logs. Published on PyPI.
 - [mcp-server-browserbase (browserbase)](https://github.com/browserbase/mcp-server-browserbase) - Automate web navigation, cloud browser control, data extraction, and form filling.
 - [webclaw (0xMassi)](https://github.com/0xMassi/webclaw) - Optimized web extraction and scraper client designed to bypass bot protection and reduce token usage.
 - [terminator (mediar-ai)](https://github.com/mediar-ai/terminator) - Desktop GUI automation server using accessibility APIs to control native desktop applications.
