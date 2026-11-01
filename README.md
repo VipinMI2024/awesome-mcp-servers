@@ -52,6 +52,8 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [linkedin-mcp-server (Dishant27)](https://github.com/Dishant27/linkedin-mcp-server) - Integrates LinkedIn's API for profile data fetching and sharing updates.
 - [linkedin_mcp (Rayyan9477)](https://github.com/Rayyan9477/linkedin_mcp) - Focused on job searching, resume/cover letter generation, and job application management.
 - [autoposting-mcp (Autoposting-ai)](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server for social publishing: generates posts, clips video and schedules to X, LinkedIn, Instagram, Threads and YouTube.
+- [Nova Twitter Agent (CIVAI)](https://github.com/civai-technologies/twitter-agent-mcp-by-nova-civai) - Official hosted remote MCP for posting, searching and engagement on X; 10 tools, Nova account required.
+- [Nova Instagram Agent (CIVAI)](https://github.com/civai-technologies/instagram-web-agent-mcp-by-nova-civai) - Official hosted remote MCP for Instagram posting and engagement; 9 tools, Nova account required.
 
 ### 2. Email Automation
 
@@ -65,9 +67,11 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [better-email-mcp (n24q02m)](https://github.com/n24q02m/better-email-mcp) - Node.js-based IMAP/SMTP server supporting App Passwords and auto-discovery for major email providers.
 - [inbox-zero (elie222)](https://github.com/elie222/inbox-zero) - Gmail integration adding inbox categorization, response suggestions, and follow-up tracking.
 - [google_workspace_mcp (taylorwilsdon)](https://github.com/taylorwilsdon/google_workspace_mcp) - Comprehensive Google Workspace integration with support for Calendar, Drive, Gmail, Docs, Sheets, and Chats.
+- [Nova Gmail Agent (CIVAI)](https://github.com/civai-technologies/gmail-agent-mcp-by-nova-civai) - Official hosted remote MCP for reading and sending Gmail; 4 tools, Nova account required.
 ### 3. Lead Generation & Enrichment
 
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
+- [Nova Leads Discovery (CIVAI)](https://github.com/civai-technologies/leads-discovery-agent-mcp-by-nova-civai) - Official hosted remote MCP for finding and enriching leads; 22 tools, Nova account required.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
@@ -124,6 +128,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [discord-mcp (SaseQ)](https://github.com/SaseQ/discord-mcp) - Connects AI agents to Discord channels, servers, and messaging using the Java Discord API.
 - [slack-mcp-server (korotovsky)](https://github.com/korotovsky/slack-mcp-server) - Integrates Slack direct messages, channels, and apps with smart history retrieval.
 - [whatsapp-mcp (felipeadeildo)](https://github.com/felipeadeildo/whatsapp-mcp) - SQLite-backed WhatsApp bridge allowing AI assistants to read, search, and send messages.
+- [Nova WhatsApp Agent (CIVAI)](https://github.com/civai-technologies/whatsapp-web-agent-mcp-by-nova-civai) - Official hosted remote MCP for WhatsApp messaging automation; 11 tools, Nova account required.
 
 ### 9. Data Analytics & Reporting for Sales
 
@@ -138,6 +143,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 
 - [mcp-google-workspace (j3k0)](https://github.com/j3k0/mcp-google-workspace) - Exposes Google Workspace APIs including Google Calendar and Gmail to AI agents.
 - [ms-365-mcp-server (softeria)](https://github.com/softeria/ms-365-mcp-server) - Microsoft 365 Graph client managing Outlook Calendar bookings and Exchange mails.
+- [Nova Calendar Agent (CIVAI)](https://github.com/civai-technologies/calendar-agent-mcp-by-nova-civai) - Official hosted remote MCP for calendar scheduling; 7 tools, Nova account required.
 
 ---
 ## 🔁 Loop Engineering for Sales Automation
