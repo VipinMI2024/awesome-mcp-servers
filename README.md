@@ -68,6 +68,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 3. Lead Generation & Enrichment
 
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
+- [JobsPipe MCP (jobspipe)](https://github.com/jobspipe/mcp) - Hosted MCP for live job search across 30+ ATS and job boards; hiring-company and tech-stack tools for sales and recruiting agents. Endpoint: `https://mcp.jobspipe.dev/mcp`.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
