@@ -68,6 +68,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 3. Lead Generation & Enrichment
 
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
+- - [mailveri-mcp (mailveri)](https://github.com/mailveri/mailveri-mcp) - Verifies single emails and bulk lead lists via the MailVeri API (SMTP, catch-all, disposable and role detection) before outreach.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
