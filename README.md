@@ -96,6 +96,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [mcp-server-browserbase (browserbase)](https://github.com/browserbase/mcp-server-browserbase) - Automate web navigation, cloud browser control, data extraction, and form filling.
 - [webclaw (0xMassi)](https://github.com/0xMassi/webclaw) - Optimized web extraction and scraper client designed to bypass bot protection and reduce token usage.
 - [terminator (mediar-ai)](https://github.com/mediar-ai/terminator) - Desktop GUI automation server using accessibility APIs to control native desktop applications.
+- [curlshot-mcp (CurlShot)](https://github.com/SergiuPogor/curlshot-mcp) - Hosted MCP server that captures screenshots of prospect websites as PNG, JPEG, WebP, PDF or video, on desktop or phone presets.
 ### 6. Workflow Automation (n8n, Make, Zapier MCPs)
 
 - [zapier-mcp (zapier)](https://github.com/zapier/zapier-mcp) - Official Zapier MCP server to connect AI agents to 9,000+ apps. ⭐
