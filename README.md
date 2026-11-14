@@ -68,6 +68,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 3. Lead Generation & Enrichment
 
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
+- [LeadSets](https://www.leadsets.ai/docs/mcp) - Official remote MCP server (`https://mcp.leadsets.ai`) with Unlimited B2B Contact Data (paid plans; fair-use rate limits apply): search people and companies, enrich records and verify work emails.
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
