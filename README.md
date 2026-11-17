@@ -68,6 +68,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 3. Lead Generation & Enrichment
 
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
+- [FairValid](https://github.com/moonlitnayeem/fairvalid-ai) - Official hosted MCP connector for email verification and FairMatch work-email discovery; requires a FairValid account and OAuth or an API key.
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
