@@ -68,6 +68,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 3. Lead Generation & Enrichment
 
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
+- [LinkedIn People Search MCP (johnvc on Apify)](https://apify.com/johnvc/linkedin-people-search-api) - Hosted MCP endpoint (https://mcp.apify.com?tools=johnvc/linkedin-people-search-api) that searches public LinkedIn profiles by title, company and location for prospect lists.
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
