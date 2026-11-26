@@ -56,6 +56,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 ### 2. Email Automation
 
 - [gmail-mcp (shinzo-labs)](https://github.com/shinzo-labs/gmail-mcp) - Offers comprehensive Gmail API coverage, including settings management and labels.
+- [Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP) - Official hosted MCP server for drafting campaigns for subscribers, analyzing lead-capture forms, and building audience segments. ⭐
 - [resend-mcp (resend)](https://github.com/resend/resend-mcp) - Official Resend MCP server for sending emails and managing domains/contacts. ⭐
 - [outlook-mcp (ryaker)](https://github.com/ryaker/outlook-mcp) - Connects AI agents to Microsoft 365 Outlook using the Microsoft Graph API.
 - [outlook-desktop-mcp (Aanerud)](https://github.com/Aanerud/outlook-desktop-mcp) - Local MCP server interacting directly with Outlook Desktop app via COM or AppleScript.
