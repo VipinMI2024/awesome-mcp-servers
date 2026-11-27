@@ -72,6 +72,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 
 ### 4. CRM Integrations (HubSpot, Salesforce, etc.)
 
+- [Genaya Connect](https://developer.genaya.com/mcp) - Official hosted MCP server for the Genaya CRM for service businesses: ask about clients, appointments, invoices and calls, and prepare changes that run only after the member confirms them.
 - [mcp-server-salesforce (tsmztech)](https://github.com/tsmztech/mcp-server-salesforce) - Focuses on integrating Claude with Salesforce for querying and managing records.
 - [odoo-mcp-pro (pantalytics)](https://github.com/pantalytics/odoo-mcp-pro) - Highly active repository designed as an AI connector for Odoo ERP data.
 - [MCP-Salesforce (smn2gnt)](https://github.com/smn2gnt/MCP-Salesforce) - Connector allowing LLMs to interact with Salesforce via SOQL and SOSL queries.
