@@ -86,6 +86,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [playwright-mcp (microsoft)](https://github.com/microsoft/playwright-mcp) - Official Playwright MCP server for browser automation and scraping. ⭐
 - [exa-mcp-server (exa-labs)](https://github.com/exa-labs/exa-mcp-server) - Official Exa MCP server for advanced AI-native web search, crawls, and LinkedIn/company search. ⭐
 - [tavily-mcp (tavily-ai)](https://github.com/tavily-ai/tavily-mcp) - Official Tavily MCP server for real-time web search and LLM-optimized scraping. ⭐
+- [geekflare-api-mcp (geekflare)](https://github.com/geekflare/geekflare-api-mcp) - Official Geekflare MCP server for web scraping, Google SERP search, site crawling, and screenshots. ⭐
 - [scrapegraph-mcp (ScrapeGraphAI)](https://github.com/ScrapeGraphAI/scrapegraph-mcp) - Integrates ScrapeGraphAI's API, offering enterprise-grade AI-powered scraping capabilities. ⭐
 - [real-browser-mcp (ofershap)](https://github.com/ofershap/real-browser-mcp) - Controls users' active Chrome/Firefox sessions to preserve cookies, sessions, and logins.
 - [auth-fetch-mcp (ymw0407)](https://github.com/ymw0407/auth-fetch-mcp) - Opens local browser instances to capture and cache sessions for login-protected pages.
