@@ -67,6 +67,7 @@ Instead of writing custom code for every combination of AI agent and sales tool,
 - [google_workspace_mcp (taylorwilsdon)](https://github.com/taylorwilsdon/google_workspace_mcp) - Comprehensive Google Workspace integration with support for Calendar, Drive, Gmail, Docs, Sheets, and Chats.
 ### 3. Lead Generation & Enrichment
 
+- [BatchData MCP Server (batchdataco)](https://github.com/batchdataco/batchdata-mcp-server) - Official hosted MCP server for U.S. property and owner data: property lookup, comps, property search and lead lists, skip tracing, and DNC/TCPA phone checks.
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add https://api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
 - [vibeprospecting-mcp (explorium-ai)](https://github.com/explorium-ai/vibeprospecting-mcp) - Remote B2B data access server for compiling lists, researching companies, and enriching contacts.
 
